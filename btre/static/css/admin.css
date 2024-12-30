@@ -1,0 +1,56 @@
+/**
+ * Copyright 2024 Jordan Daniel
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *     https://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+a:link,
+a:visited {
+  color: #10284e;
+}
+
+#header {
+  height: 50px;
+  background: #10284e;
+  color: #fff;
+}
+
+#branding h1 {
+  color: #fff;
+}
+
+div.breadcrumbs {
+  background: #30caa0;
+  color: #10284e;
+}
+
+div.breadcrumbs a {
+  color: #333;
+}
+
+.module caption,
+.inline-group h2 {
+  background: #30caa0;
+  color: #10284e;
+}
+
+.button,
+input[type='submit'],
+input[type='button'],
+.submit-row input,
+a.button {
+  background: #30caa0;
+}
+.submit-row input.default {
+  background: #239b7b;
+}
