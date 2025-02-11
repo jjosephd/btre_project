@@ -2,6 +2,9 @@ from django.db import models
 from datetime import datetime
 
 # Create your models here.
+# Realtor Model
+# name, photo, description, 
+# #phone, email, is_mvp, hire_date
 class Realtor(models.Model):
     name = models.CharField(max_length=200)
     photo = models.ImageField(upload_to='photos/%Y/%m/%d/')

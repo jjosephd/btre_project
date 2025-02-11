@@ -14,11 +14,6 @@
  * limitations under the License.
  */
 
-a:link,
-a:visited {
-  color: #10284e;
-}
-
 #header {
   height: 50px;
   background: #10284e;
